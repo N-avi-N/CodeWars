@@ -1,3 +1,3 @@
 def sort_reindeer(names):
-    return sorted(names, key = lambda x : x.split(' ')[-1].lower())
+    return sorted(names, key = lambda x: x.split(' ')[-1].lower())
 
